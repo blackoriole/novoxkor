@@ -1,2 +1,3 @@
 # novoxkor
-The platform-independent version of the scorinator, Xkoranate.
+
+The platform-independent scorinator.
