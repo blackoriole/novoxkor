@@ -1,4 +1,1 @@
-    $ cat .gitignore
-    # exclude everything ein node_modules
-    # does not seem to work
-    /node_modules/
+node_modules
